@@ -1,2 +1,2 @@
 # proj
-code
+code for lol fun
